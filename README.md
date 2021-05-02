@@ -22,7 +22,7 @@
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/ErichMantai/Finapi-Ignite.git && cd finapi
+$ git clone https://github.com/ErichMantai/DesafioTodo-ignite.git && cd DesafioTodo-ignite
 ```
 
 **Follow the steps below**
