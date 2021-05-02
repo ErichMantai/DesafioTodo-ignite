@@ -33,7 +33,7 @@ $ yarn
 
 # Run the web server
 $ yarn dev
-```
+
 # Run tests
 $ yarn test
 ```
