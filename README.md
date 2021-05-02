@@ -12,6 +12,7 @@
 </div>
 
 - [Nodejs](https://nodejs.org/)
+- [Jest](https://jestjs.io/pt-BR/)
 
 ## 💻 Getting started
 
