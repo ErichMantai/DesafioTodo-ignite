@@ -1,7 +1,7 @@
 # Desafio Ignite
 
 <h4 align="center">
-  Desafio do Ignite Rocketseat.
+  Desafio do Ignite da Rocketseat Gerenciador de tarefas.
 </h4>
 
 ## Tecnologies
