@@ -39,7 +39,6 @@ $ yarn dev
 $ yarn test
 ```
 
-The app will be available for access on your browser at `http://localhost:3333`
 
 ## 📝 License
 
